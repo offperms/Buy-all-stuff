@@ -1,0 +1,46 @@
+local args = {
+    [1] = "BuyItem",
+    [2] = "Cookie"
+}
+
+game:GetService("ReplicatedStorage").RE:FireServer(unpack(args))
+
+local args = {
+    [1] = "BuyItem",
+    [2] = "Soda"
+}
+
+game:GetService("ReplicatedStorage").RE:FireServer(unpack(args))
+
+local args = {
+    [1] = "BuyItem",
+    [2] = "Coffee"
+}
+
+game:GetService("ReplicatedStorage").RE:FireServer(unpack(args))
+
+local args = {
+    [1] = "BuyItem",
+    [2] = "Bunny"
+}
+
+game:GetService("ReplicatedStorage").RE:FireServer(unpack(args))
+
+local args = {
+    [1] = "BuyItem",
+    [2] = "Phone"
+}
+
+game:GetService("ReplicatedStorage").RE:FireServer(unpack(args))
+
+local args = {
+    [1] = "BuyItem",
+    [2] = "Gun"
+}
+
+game:GetService("ReplicatedStorage").RE:FireServer(unpack(args))
+
+
+
+
+
